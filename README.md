@@ -9,7 +9,6 @@ Install the dependencies of Angular App
 ```sh
 $ cd angular-app
 $ npm install 
-$ ng serve --open
 ```
 Run Angular app
 ```sh
