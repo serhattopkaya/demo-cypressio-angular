@@ -17,7 +17,7 @@ $ ng serve --open
 Sample application running under url: http://localhost:4200/
 
 ##### Cypress Installation
-https://docs.cypress.io/guides/getting-started/installing-cypress.html#System-requirements
+https://docs.cypress.io/guides/getting-started/installing-cypress.html
 
 Install the dependencies of Cypress
 ```sh
@@ -28,7 +28,7 @@ Open/Run Cypress
 ```sh
 $ npx cypress open 
 ```
-OR
+ or
 ```sh
 $ npx cypress run
 ```
